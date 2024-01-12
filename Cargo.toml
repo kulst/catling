@@ -1,0 +1,3 @@
+[workspace]
+members = ["catling-poc", "et1100-rs"]
+resolver = "2"
